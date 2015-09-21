@@ -1,0 +1,32 @@
+<x?xml version="1.0"?>
+<!DOCCTYPE animals SYSTEM "animals.dtd">
+<?xml-stylesheet type="text/xsl" href="animals.xsl"?>
+<animals>
+        <animal>
+        <name>cow</name>
+        <colour>white</colour>
+        <skin>leather</skin>
+        <sound>moo</sound>
+        </animal>
+        <animal>
+        <name>chicken</name>
+        <colour>brown</colour>
+        <skin>feathers</skin>
+        <sound>cawcaw</sound>
+        </animal>
+        <animal>
+        <name>pig</name>
+        <colour>pink</colour>
+        <skin>meat</skin>
+        <sound>oink</sound>
+        </animal>
+        <animal>
+        <name>horse</name>
+        <colour>black</colour>
+        <skin>leather</skin>
+        <sound>clawking</sound>
+        </animal>
+</animals>
+
+
+
